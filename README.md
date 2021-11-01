@@ -4,6 +4,7 @@
 | DataBase  | SQL Server  |
 | Architecture  | Clean  |
 |Auth system |JWT|
+|Test |XUnit|
 |MicroService |& DTO Based|
 <br/>
 <br/>
